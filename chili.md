@@ -1,4 +1,8 @@
-Brown 4 lbs cubed tri-tip with 3 tsp salt and 1½ tsp white pepper. Place in stock pot and simmer on low heat for 3 hrs.
+#Chili
+Takes 3 hours
+
+```
+Brown 4 lbs cubed tri-tip with 3 tsp salt and 1½ tsp white pepper. Place in stock pot on low
 
 Add:
 2 Cans Chicken Broth
@@ -28,3 +32,4 @@ Salt to taste
 ½ tsp red jalapeno powder
 ½ tsp cumin
 Salt to taste
+```
