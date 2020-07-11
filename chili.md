@@ -26,7 +26,7 @@ Add:
 Salt to taste
 
 @ 2 ½ hrs Add:
-5 tsp arrowroot (mix with water to form paste)
+5 tsp arrowroot or cornstarch (mix with water to form paste)
 1 tsp garlic powder
 1 tsp brown sugar
 ½ tsp red jalapeno powder
