@@ -1,6 +1,7 @@
 # New York Times Sugar Cookie Bars (icing recipe)
 
 FOR THE FROSTING:
+
 6 tablespoons/85 grams unsalted butter (3/4 stick), at room temperature
 
 2 cups/245 grams confectioners’ sugar
